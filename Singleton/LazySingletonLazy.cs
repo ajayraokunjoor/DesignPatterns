@@ -5,7 +5,7 @@ namespace Singleton
     public class LazySingletonLazy
     {
         public static int counter = 0;
-        private static readonly Lazy<LazySingletonLazy> singleInstance = new Lazy<LazySingletonLazy> (() => new LazySingletonLazy())
+        private static readonly Lazy<LazySingletonLazy> singleInstance = new Lazy<LazySingletonLazy>(() => new LazySingletonLazy());
 
         private LazySingletonLazy()
         {

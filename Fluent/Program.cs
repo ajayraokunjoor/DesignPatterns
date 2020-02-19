@@ -16,10 +16,6 @@ namespace Fluent
                 .Born("10/17/1985")
                 .StaysAt("Bangalore-India");
 
-            Employee employee;
-
-            System.Console.WriteLine(employee.); ;
-
             System.Console.Read();
         }
     }
