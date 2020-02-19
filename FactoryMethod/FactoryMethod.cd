@@ -28,7 +28,7 @@
       <FileName>CreditCardFactory.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="FactoryMethod.MoneyBack" Collapsed="true" BaseTypeListCollapsed="true">
+  <Class Name="FactoryMethod.MoneyBack" BaseTypeListCollapsed="true">
     <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BAAAAAAAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>

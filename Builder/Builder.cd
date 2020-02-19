@@ -21,7 +21,7 @@
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Builder.Report">
+  <Class Name="Builder.Report" Collapsed="true">
     <Position X="7" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAQAAAACAAAAkAAAA=</HashCode>
@@ -35,7 +35,7 @@
       <FileName>ReportBuilder.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="Builder.ReportDirector">
+  <Class Name="Builder.ReportDirector" Collapsed="true">
     <Position X="5.25" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
